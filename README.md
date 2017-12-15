@@ -40,3 +40,8 @@ cd Astrobot
 
 
 python2 Astrobot.py
+
+
+
+
+Terimakasih buat TCT buat TCR, dan buat mastah programmer lainnya
